@@ -1,4 +1,4 @@
-<h1>AgentCpp</h1>
+<h1>AgentGo</h1>
 
 <b>Ru</b>
 <i>Агент - программа разработанная на языке Go для камер под архитектуры ARM/Mipsel</i>
@@ -10,7 +10,7 @@
 5. Запускает VPN через команду с аргументами полученными в ответе от сервера
 
 <b>En</b>
-<i>Agent is a program developed for cameras under ARM/Mipsel architecture</i>
+<i>Agent is a program developed on Go language for cameras under ARM/Mips architecture Functional</i>
 Functional:
 1. The agent takes the serial number from the camera configuration and sends it to the database
 2. When receiving the camera number, the server sends data to <a href="https://github.com/Adamanr/WireGuard_keygen">WireGuard-KeyGen</a>
